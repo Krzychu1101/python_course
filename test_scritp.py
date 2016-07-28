@@ -3,10 +3,10 @@ import matplotlib.pyplot as plt
 
 import os
 
-os.listdir()
 
 
-array = [1, 3, 5, 7, 9]
+
+array = [1, 3, 5, 6, 9]
 
 numpyArray = np.array(array)
 
