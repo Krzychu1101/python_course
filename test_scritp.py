@@ -6,7 +6,7 @@ import os
 
 
 
-array = [1, 3, 5, 6, 9]
+array = [1, 3, 5, 6, 7, 9]
 
 numpyArray = np.array(array)
 
